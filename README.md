@@ -1,4 +1,4 @@
-# Crypto Transfer Safety Kit (2026 Edition)
+# Crypto Transfer Safety Kit
 
 A practical, updated guide to reducing irreversible crypto transfer mistakes.
 
